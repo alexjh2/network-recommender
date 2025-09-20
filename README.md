@@ -1,6 +1,6 @@
 ### Project Overview
 
-The **Network Recommender** is a lightweight AI system designed to suggest professional connections based on shared institutions, activities, and social graphs. It processes structured profiles and unstructured bios to identify relationships, leveraging multiple data sources and AI logic to generate personalized recommendations. This project was built as part of a 10-day beginner-friendly enterprise project.
+The **Network Recommender** is a lightweight AI system designed to suggest professional connections based on shared institutions, activities, and social graphs. It processes structured profiles and unstructured bios to identify relationships, leveraging multiple data sources and AI logic to generate personalized recommendations.
 
 **Note**: All data used in this project, including user profiles and bios, is **dummy data** for demonstration purposes only. No real or personal information was used.
 
