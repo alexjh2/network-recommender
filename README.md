@@ -30,7 +30,7 @@ This system provides a multi-modal person lookup using a hybrid AI approach. The
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/alexjh2/network-recommender.git](https://github.com/alexjh2/network-recommender.git)
+    git clone https://github.com/alexjh2/network-recommender.git
     cd network-recommender
     ```
 
