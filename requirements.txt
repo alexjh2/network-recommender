@@ -1,0 +1,8 @@
+duckdb
+pandas
+qdrant-client
+sentence-transformers
+streamlit
+langchain
+neo4j
+openai
